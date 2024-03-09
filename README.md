@@ -1,4 +1,6 @@
 Description:
+![how to Scrape](https://github.com/ImadBK01/Instagram-profile-scraper/assets/98785570/2c8e8399-6c2b-431c-90e7-d62c5ed83ead)
+
 The "Instagram Profile Scraper" is a Python script designed to extract multimedia content from Instagram profiles using Selenium and BeautifulSoup libraries. The script provides a user-friendly interface leveraging Tkinter, enabling users to input the target Instagram username, password, profile URL, and desired download directory. It automates the process of logging into Instagram, navigating to the specified profile, and collecting images and videos.
 
 Key Features:
